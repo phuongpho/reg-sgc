@@ -3,6 +3,7 @@ from dgl.data import CoraGraphDataset, CiteseerGraphDataset, PubmedGraphDataset
 import numpy as np
 import torch
 import torch.nn.functional as F
+import os
 
 import matplotlib.pyplot as plt
 
